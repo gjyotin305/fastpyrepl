@@ -1,6 +1,6 @@
 [project]
 name = "fastpyrepl"
-version = "0.1.0"
+version = "0.1.1"
 description = "FastAPI service for executing Python code in session-scoped environments"
 readme = "README.md"
 authors = [
