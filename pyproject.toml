@@ -10,7 +10,7 @@ requires-python = ">=3.12"
 dependencies = []
 
 [project.scripts]
-docker-repl = "docker_repl:main"
+python_http = "python_http:main"
 
 [build-system]
 requires = ["hatchling"]
